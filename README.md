@@ -2,7 +2,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-mdowchang@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mdowchang@gmail.com)](mailto:mdowchang@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-mdowchang-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mdowchang/)](https://www.linkedin.com/in/mdowchang/)
-[![GitHub](https://img.shields.io/badge/GitHub-mikeydchang-grey?style=for-the-badge&logo=github)](https://github.com/mikeydchang)
+[![Github Badge](https://img.shields.io/badge/-mikeydchang-grey?style=flat&logo=github&logoColor=white&link=https://github.com/mikeydchang/)](https://www.github.com/mikeydchang/) 
 
 I am a passionate data analyst with a keen eye for detail and a drive for extracting meaningful insights from complex datasets. My goal is to leverage data to drive informed decision-making and contribute to business success.
 
