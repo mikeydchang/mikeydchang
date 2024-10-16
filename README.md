@@ -18,8 +18,6 @@ I am excited about the endless possibilities that data analysis offers and the p
 
 Feel free to contact me on GitHub or LinkedIn!
 
-You can view my resume here.
-
 🔧 Skills 🔧
 
 📊 Data Analysis | 🐍 Python | 📊 SQL | 📊 Tableau 📊 Data Visualization | 👥 Team Leadership | 💬 Communication | 🗄️ Organization
